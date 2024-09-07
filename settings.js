@@ -10,26 +10,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2347041232443"
-global.ownername = "who i am?"
+global.ownernomer = "2347046584498"
+global.ownername = "𝑺𝑴𝑿𝑵 𝑮𝑹𝑬𝒀【𓍯】"
 global.ytname = "kontol"
 global.socialm = "kontol"
-global.location = "tobrut, toket, brutal"
+global.location = "nigeria, lagos, abuja"
 
-global.ownernumber = '6285603956210'  //creator number
-global.ownername = 'who i am?' //owner name
-global.botname = 'bot' //name of the bot
+global.ownernumber = '2347046584498'  //creator number
+global.ownername = '𝑺𝑴𝑿𝑵【𓍯】' //owner name
+global.botname = '𝑮𝑹𝑬𝒀 𝑩𝑶𝑻' //name of the bot
 
 //sticker details
-global.packname = '.'
-global.author = '.\n\n.'
+global.packname = '𝑺𝑴𝑿𝑵 【𓍯】'
+global.author = '𝑮𝑹𝑬𝒀 𝑩𝑶𝑻'
 
 //console view/theme
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.themeemoji = '💀'
+global.wm = "Grey Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20'
+global.link = 'https://whatsapp.com/channel/0029VagvH9tLdQeiUYXE7V43'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -40,7 +40,7 @@ global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
-global.anti92 = false //auto block +92 
+global.anti92 = true //auto block +92 
 global.autoswview = false //auto view status/story
 
 //menu type 
